@@ -1,5 +1,6 @@
 # image_browser
 An image browser.
+
 *browser* is an image browser to illustrate features of OpenCV.  In particular,
 it shows how to read and display and image, as well as to apply affine transform
 to reduce the pixel size of the image while preserving its aspect ratio.
